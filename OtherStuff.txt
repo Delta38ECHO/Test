@@ -1,0 +1,10 @@
+If you preform a:
+git commit
+
+without using a -m "message", it will bring you to a text editor screen with a "PLEASE ENTER STUFF" command.  
+Use this when you need to create a multi-line commit marker.
+
+When done:
+ESC -> w + q
+to save message then you may use
+git push.
