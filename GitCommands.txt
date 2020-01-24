@@ -29,3 +29,6 @@ git push
 (This uploads everything to GitHub that was ready to be committed.  Now all others who are using same respiratory can use:
 git pull
 (This pulls the latest update from GitHub for the current directory and overwrites any previous files...I think.)
+
+WILL ADD:
+Group work of adding/altering same files.
