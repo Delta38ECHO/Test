@@ -32,3 +32,7 @@ git pull
 
 WILL ADD:
 Group work of adding/altering same files.
+
+----------------
+
+git init -> turn an existing directory into a git repository.
